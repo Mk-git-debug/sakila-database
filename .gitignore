@@ -1,0 +1,21 @@
+```
+```
+# Database files
+*.db
+*.duckdb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+data/*.csv
+data/*.sqlite
